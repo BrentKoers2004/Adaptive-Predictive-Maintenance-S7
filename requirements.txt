@@ -1,0 +1,3 @@
+pdmdata @ git+https://github.com/kokikwbt/predictive-maintenance.git
+ipython
+numpy
